@@ -31,6 +31,8 @@ MacOS: We currently do not officaly support MacOS, however testers for it would 
 
 Linux: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#linux
 
+MacOS: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#macos
+
 -------
 
 # Customizing
